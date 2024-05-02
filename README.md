@@ -33,8 +33,7 @@ Bibliotecas
 
 Utilitários
 
-- [randomuser.me](https://randomuser.me/photos)
-- [IconMoon](https://icomoon.io/app/#/select)
+- [ionicons](https://ionic.io/ionicons)
 
 ## 💻 Projeto
 
@@ -47,6 +46,3 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT.
-
-
-
